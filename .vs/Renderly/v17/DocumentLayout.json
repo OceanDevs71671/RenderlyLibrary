@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Renderly\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Renderly\\RenderlyLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01F5DE-5E26-418D-ABFB-C042B59D31EE}|Renderly\\Renderly.csproj|c:\\renderly\\renderlylibrary\\renderly\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01F5DE-5E26-418D-ABFB-C042B59D31EE}|Renderly\\Renderly.csproj|solutionrelative:renderly\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Renderly\\RenderlyLibrary\\Renderly\\Source\\Program.cs",
+              "RelativeDocumentMoniker": "Renderly\\Source\\Program.cs",
+              "ToolTip": "C:\\Renderly\\RenderlyLibrary\\Renderly\\Source\\Program.cs",
+              "RelativeToolTip": "Renderly\\Source\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:53:55.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
